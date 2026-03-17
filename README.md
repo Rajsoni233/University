@@ -38,11 +38,3 @@ Run your Spring Boot application either directly from your IDE.
 10. Test Your Application
 Navigate to http://localhost:3000 in your web browser to view the list of universities and ensure that your application is running correctly.
 
-This basic guide should help you get started with a demo university application using Spring Boot, PostgreSQL, JPA, and Thymeleaf.
-
-𝐆𝐢𝐭𝐇𝐮𝐛 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲:✅
-Explore and use the code from this tutorial by visiting my GitHub repository: https://github.com/ShurieJr/demo-Spri...
-
-𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐟𝐨𝐫 𝐌𝐨𝐫𝐞:💥
-Subscribe to our channel for more programming tutorials and hit the bell to stay updated! 
-Link: https://www.youtube.com/channel/UCypGd5Kv1PUA52QqN7XElNg
